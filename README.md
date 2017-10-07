@@ -16,7 +16,7 @@ On veut pouvoir garder au moins 2 parties en mémoire en même temps.
 On veut pouvoir demander d’afficher la main de chaque joueurs à l'aide d'une méthode.
 Code en anglais (variables, classes, noms de fonctions, etc.)
 
-===============================================================================================
+=================================================================================
 
 Développé en C++.
 
