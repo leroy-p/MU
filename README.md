@@ -15,3 +15,12 @@ On s'attend à avoir au moins 3 objets et des interactions entre les objets.
 On veut pouvoir garder au moins 2 parties en mémoire en même temps.
 On veut pouvoir demander d’afficher la main de chaque joueurs à l'aide d'une méthode.
 Code en anglais (variables, classes, noms de fonctions, etc.)
+
+=======================================================================================================================================
+
+Développé en C++.
+
+La classe MU contient deux parties.
+La classe Game contient une liste de joueurs (entre 3 et 6) et une liste de 60 cartes prètes a être distribuées.
+La classe Player contient une liste de cartes (de taille variable selon le nombre de joueurs et l'état de la partie)
+La classe Card contient une couleur et une valeur entre 1 et 12.
